@@ -20,7 +20,7 @@ $ npm install -g fbjs-cli
 $ fb COMMAND
 running command...
 $ fb (-v|--version|version)
-fbjs-cli/0.1.0-beta darwin-x64 node-v15.12.0
+fbjs-cli/0.1.0-beta darwin-x64 node-v16.2.0
 $ fb --help [COMMAND]
 USAGE
   $ fb COMMAND
