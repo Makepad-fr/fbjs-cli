@@ -20,7 +20,7 @@ $ npm install -g fbjs-cli
 $ fb COMMAND
 running command...
 $ fb (-v|--version|version)
-fbjs-cli/1.0.0 darwin-x64 node-v15.12.0
+fbjs-cli/0.1.0-beta darwin-x64 node-v15.12.0
 $ fb --help [COMMAND]
 USAGE
   $ fb COMMAND
@@ -46,7 +46,7 @@ OPTIONS
   -h, --help  show CLI help
 ```
 
-_See code: [src/commands/config.ts](https://github.com/Makepad-fr/fbjs-cli/blob/v1.0.0/src/commands/config.ts)_
+_See code: [src/commands/config.ts](https://github.com/Makepad-fr/fbjs-cli/blob/v0.1.0-beta/src/commands/config.ts)_
 
 ## `fb groups:get`
 
@@ -57,7 +57,7 @@ USAGE
   $ fb groups:get
 ```
 
-_See code: [src/commands/groups/get.ts](https://github.com/Makepad-fr/fbjs-cli/blob/v1.0.0/src/commands/groups/get.ts)_
+_See code: [src/commands/groups/get.ts](https://github.com/Makepad-fr/fbjs-cli/blob/v0.1.0-beta/src/commands/groups/get.ts)_
 
 ## `fb groups:get:posts`
 
@@ -86,7 +86,7 @@ OPTIONS
   --public                     Indicates the public visibility to skip authentication process
 ```
 
-_See code: [src/commands/groups/get/posts.ts](https://github.com/Makepad-fr/fbjs-cli/blob/v1.0.0/src/commands/groups/get/posts.ts)_
+_See code: [src/commands/groups/get/posts.ts](https://github.com/Makepad-fr/fbjs-cli/blob/v0.1.0-beta/src/commands/groups/get/posts.ts)_
 
 ## `fb help [COMMAND]`
 
