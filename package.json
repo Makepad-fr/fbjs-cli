@@ -8,7 +8,7 @@
   },
   "bugs": "https://github.com/[object Object]/issues",
   "dependencies": {
-    "@makepad/fbjs": "^4.0.0",
+    "@makepad/fbjs": "^4.0.1",
     "@oclif/command": "^1.8.0",
     "@oclif/config": "^1.17.0",
     "@oclif/plugin-help": "^3.2.2",
@@ -65,12 +65,10 @@
     "url": "git@github.com:Makepad-fr/fbjs-cli.git"
   },
   "scripts": {
-    "compile": "node_modules/.bin/tsc ",
+    "compile": "tsc -b",
     "main": "dist/index.js",
     "postpack": "rm -f oclif.manifest.json",
     "posttest": "eslint . --ext .ts --config .eslintrc",
-    "prepack": "rm -rf lib && tsc -b && oclif-dev manifest && oclif-dev readme",
-    "prepublish": "npm run compile",
     "test": "nyc --extension .ts mocha --forbid-only \"test/**/*.test.ts\"",
     "version": "oclif-dev readme && git add README.md"
   },
