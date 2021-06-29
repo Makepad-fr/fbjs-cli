@@ -5,9 +5,9 @@ A CLI tool for fbjs
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/fbjs-cli.svg)](https://npmjs.org/package/fbjs-cli)
-[![CircleCI](https://circleci.com/gh/[object Object]/tree/master.svg?style=shield)](https://circleci.com/gh/[object Object]/tree/master)
+[![CircleCI](https://circleci.com/gh/Makepad-fr/fbjs-cli/tree/master.svg?style=shield)](https://circleci.com/gh/Makepad-fr/fbjs-cli/tree/master)
 [![Downloads/week](https://img.shields.io/npm/dw/fbjs-cli.svg)](https://npmjs.org/package/fbjs-cli)
-[![License](https://img.shields.io/npm/l/fbjs-cli.svg)](https://github.com/[object Object]/blob/master/package.json)
+[![License](https://img.shields.io/npm/l/fbjs-cli.svg)](https://github.com/Makepad-fr/fbjs-cli/blob/master/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
