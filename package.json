@@ -1,14 +1,14 @@
 {
   "name": "fbjs-cli",
   "description": "A CLI tool to automate Facebook interactions",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Makepad Developers <dev@makepad.fr>",
   "bin": {
     "fb": "./bin/run"
   },
   "bugs": "https://github.com/[object Object]/issues",
   "dependencies": {
-    "@makepad/fbjs": "^4.1.0",
+    "@makepad/fbjs": "^4.1.1",
     "@oclif/command": "^1.8.0",
     "@oclif/config": "^1.17.0",
     "@oclif/plugin-help": "^3.2.2",
